@@ -32,9 +32,11 @@ To ensure data quality, we conducted a **data quality check**:
 
 Then, I analyzed the presence of "burrito" and "taco" in the column, considering two possible approaches:
 
-(1) Detailed-oriented approach: Exclude items that are not standalone burritos or tacos, such as bowls, wraps, combos, salads, and flatbreads (with the possibility of refining further).
+**(1) Detailed-oriented approach:** 
+- Exclude items that are not standalone burritos or tacos, such as bowls, wraps, combos, salads, and flatbreads (with the possibility of refining further).
 
-(2) General approach: Only adjust for plural variations and include all relevant entries in the count.
+**(2) General approach:** 
+- Only adjust for plural variations and include all relevant entries in the count.
 
 📌 Conclusion: For this case, I chose the detailed-oriented approach (1) to demonstrate the importance of thoroughly investigating the data after understanding the business requirements.
 
