@@ -1,4 +1,4 @@
-# Case Study 8️⃣🟣♾️
+# Case Study
 
 This repository contains the code to connect to a **SQL Server** database, create and execute queries using **DBeaver**, export results to **AWS S3**, and an Extra script to execute SQL on VSCode.
 
